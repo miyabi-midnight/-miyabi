@@ -124,7 +124,7 @@
     background:linear-gradient(180deg,rgba(20,32,66,.5),rgba(8,14,32,.34))}
   .track .t-label{font-family:-apple-system,sans-serif;font-size:10.5px;letter-spacing:.34em;
     color:var(--moon-soft);opacity:.8}
-  .track h3{font-size:26px;font-weight:400;letter-spacing:.1em;margin:16px 0 20px;color:#fff;line-height:1.6}
+  .track h3{font-size:26px;font-weight:400;letter-spacing:.1em;margin:0 0 20px;color:#fff;line-height:1.6}
   .track p{font-size:14.5px;color:var(--muted);line-height:2.1}
   .wave{display:flex;align-items:flex-end;gap:4px;height:34px;margin:26px 0 4px;opacity:.55}
   .wave b{flex:1;background:linear-gradient(180deg,var(--moon-soft),rgba(244,221,164,.12));
@@ -141,8 +141,6 @@
   .link:hover,.link:active{border-color:rgba(244,221,164,.38);background:rgba(18,32,67,.6)}
   .link .ico{flex:none;width:22px;height:22px;opacity:.85}
   .link .arw{margin-left:auto;color:var(--muted);font-size:13px}
-  .link.soon{opacity:.4;pointer-events:none}
-  .link.soon .arw{font-size:10px;letter-spacing:.24em;font-family:-apple-system,sans-serif}
 
   /* ---------- タイマー ---------- */
   .timer{border:1px solid var(--line);border-radius:4px;padding:30px 24px;text-align:center;
@@ -221,7 +219,6 @@
     <div class="reveal">
       <div class="label">Tonight</div>
       <div class="track">
-        <div class="t-label">代表曲</div>
         <h3>今夜、眠れないあなたへ</h3>
         <p>目が冴えてしまう夜も、ふと目が覚めてしまう深夜も。<br>
         音量は小さめで大丈夫です。そのまま流したまま、<br>
@@ -278,20 +275,13 @@
         </svg>
         Instagram<span class="arw">→</span>
       </a>
-      <span class="link soon">
+      <a class="link" href="https://www.tiktok.com/@miyabi_midnight_b" target="_blank" rel="noopener">
         <svg class="ico" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-          <circle cx="12" cy="12" r="10.4" stroke="#dde3f2" stroke-width="1.2"/>
-          <path d="M6.5 9.6c3.6-1 7.6-.6 10.6.9M6.9 13c3-.8 6.2-.5 8.8.8M7.8 16.2c2.3-.6 4.6-.4 6.6.6" stroke="#dde3f2" stroke-width="1.1" stroke-linecap="round"/>
+          <path d="M14.2 3.2v10.9a3.3 3.3 0 1 1-2.6-3.22" stroke="#dde3f2" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+          <path d="M14.2 3.2c.4 2.2 1.9 3.7 4.1 3.9" stroke="#dde3f2" stroke-width="1.2" stroke-linecap="round" opacity=".85"/>
         </svg>
-        Spotify<span class="arw">準備中</span>
-      </span>
-      <span class="link soon">
-        <svg class="ico" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-          <rect x="3" y="4" width="18" height="14" rx="4" stroke="#dde3f2" stroke-width="1.2"/>
-          <path d="M8 20l2.6-2.4" stroke="#dde3f2" stroke-width="1.2" stroke-linecap="round"/>
-        </svg>
-        LINE<span class="arw">準備中</span>
-      </span>
+        TikTok<span class="arw">→</span>
+      </a>
     </div>
   </div>
 </section>
