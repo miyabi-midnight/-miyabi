@@ -27,7 +27,7 @@
 　　・英文「good night / sweet dream / good morning」
 　　・代表曲「今夜、眠れないあなたへ」＋大きな再生ボタン
 　　・プロフィール文
-　　・リンク集（YouTube / Instagram / TikTok）
+　　・リンク集（YouTube / Instagram / TikTok / Spotify）
 　　・おやすみタイマー（15分・30分・60分で画面が暗くなる）
 　　・おたより（YouTubeコメント / Instagram DM）
 　　・スマホ最適化、SNSシェア設定（OGP）
@@ -52,12 +52,20 @@
 　　Instagram　https://www.instagram.com/miyabi_midnight/
 　　TikTok　　 https://www.tiktok.com/@miyabi_midnight_b
 
+　【Spotify のプレイリスト】2026年11月10日 追加
+　　https://open.spotify.com/playlist/5nM53Uiod67XXxqfHQy5P0
+　　「眠れない夜に｜睡眠用BGM」　25曲 / 2時間31分
+　　雅の曲ではなく、他の方の眠れる曲を雅が選んで並べたものです。
+　　吉村弘、Max Richter、Brian Eno、Nils Frahm ほか。
+　　急に音が大きくなる曲は入れていません。
+　　Spotify の表示名は「雅 - MIYABI」に変更済み。
+
 
 ■ 計測している項目
 
 　・ページの表示回数、訪問者がどこから来たか
 　・「今夜、再生する」ボタンが押された回数　← 最重要
-　・リンク-YouTube / リンク-Instagram / リンク-TikTok
+　・リンク-YouTube / リンク-Instagram / リンク-TikTok / リンク-Spotify
 　・おたより-YouTube / おたより-Instagram
 　・タイマー-15分 / タイマー-30分 / タイマー-60分
 
@@ -85,6 +93,13 @@
 
 　3. GitHubのリポジトリ名「-miyabi」の先頭のハイフン
 　　　消せませんでしたが、公開ページの見え方には影響しません
+
+　4. Spotify のプロフィール写真が暗すぎる
+　　　いまは三日月ですが、小さく出ると黒い丸にしか見えません
+　　　満月の絵に差し替える予定です
+
+　5. Spotify のプロフィールに、ホームページの住所を入れる
+　　　聴いた人が雅のページへ来られるようにするため
 
 
 ■ 変更したいときは
